@@ -1,0 +1,1 @@
+This is a group project for Introduction to Game Programming Class in Izmir University of Economics
